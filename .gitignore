@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+build/
+out/
+run/
+/src/main/resources/assets/minecraft/huzuni/textures/Lato-Semibold.ttf
